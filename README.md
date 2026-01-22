@@ -3,10 +3,7 @@
 A responsive Netflix landing page clone built using HTML, CSS, JavaScript, PHP, and SMTP.
 This project replicates the UI and core interactive features of Netflix, including FAQ accordion, language switching, video optimization, and email submission via backend.
 
-🚀 Live Demo
-
-👉 (Add your live link here if deployed)
-Example: https://your-netflix-clone.netlify.app
+🚀 Live Demo:   https://deepak-netflxiclone.netlify.app/
 
 🛠️ Tech Stack
 HTML5 – Structure
