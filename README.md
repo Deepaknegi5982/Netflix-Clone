@@ -1,9 +1,9 @@
-🎬 Netflix Clone Website
+🎬 StreamFlix  Website
 
-A responsive Netflix landing page clone built using HTML, CSS, JavaScript, PHP, and SMTP.
-This project replicates the UI and core interactive features of Netflix, including FAQ accordion, language switching, video optimization, and email submission via backend.
+A responsive StreamFlix landing page clone built using HTML, CSS, JavaScript, PHP, and SMTP.
+This project replicates the UI and core interactive features of StreamFlix, including FAQ accordion, language switching, video optimization, and email submission via backend.
 
-🚀 Live Demo:   https://deepak-netflxiclone.netlify.app/
+🚀 Live Demo:   
 
 🛠️ Tech Stack
 HTML5 – Structure
@@ -14,7 +14,7 @@ SMTP (PHPMailer) – Email submission
 Git & GitHub – Version control
 
 ✨ Features
-✅ Netflix-style responsive UI
+✅ StreamFlix-style responsive UI
 ✅ Hero section with CTA
 ✅ Optimized background videos (lazy loading)
 ✅ FAQ accordion (open/close animation)
